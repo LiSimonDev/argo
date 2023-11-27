@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: post
-        image: database-app
+        image: postgres
         ports:
         - containerPort: 5432
         env:

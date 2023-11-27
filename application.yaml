@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://git.likims.eu/kubernetes/argo.git
+    repoURL: https://github.com/LiSimonDev/argo.git
     targetRevision: HEAD
     path: dev
   destination: 
